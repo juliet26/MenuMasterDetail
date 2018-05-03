@@ -8,7 +8,9 @@
             <Image Source="reminders.png" 
                    HorizontalOptions="CenterAndExpand"
                    VerticalOptions="CenterAndExpand"/>
-            <Label Text="Aquí está la página de Alertas"></Label>
+            <Label Text="Aquí está la página de Alertas"
+                   VerticalOptions="CenterAndExpand"
+                   HorizontalOptions="CenterAndExpand"></Label>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
